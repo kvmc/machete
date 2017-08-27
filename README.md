@@ -1,2 +1,4 @@
 # machete
-Safar bookmark file parser and duplicate removal utility
+Export bookmarks via File > Export Bookmarks.
+
+
